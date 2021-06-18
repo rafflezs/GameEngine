@@ -1,0 +1,3 @@
+﻿  App.cpp
+D:\Programacao\GameEngine\Sandbox\src\App.cpp(7,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Sandbox.vcxproj -> D:\Programacao\GameEngine\bin\Debug-x64\Sandbox\Sandbox.exe
